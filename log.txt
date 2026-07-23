@@ -1,0 +1,7 @@
+2026-07-23 10:00:00 | File: sample_photo.jpg | Destination: Images
+2026-07-23 10:05:30 | File: sample_report.pdf | Destination: Documents
+2026-07-23 10:10:10 | File: sample_video.mp4 | Destination: Videos
+2026-07-23 18:21:08 | File: clip.mp4 | Destination: Videos
+2026-07-23 18:21:08 | File: notes.txt | Destination: Documents
+2026-07-23 18:21:08 | File: photo.jpg | Destination: Images
+2026-07-23 18:21:08 | File: random.xyz | Destination: Others

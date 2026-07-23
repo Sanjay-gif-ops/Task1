@@ -1,0 +1,2 @@
+# No external packages are required for this project.
+# This script uses only Python standard library modules.
